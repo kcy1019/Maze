@@ -4,7 +4,7 @@
 ###by kcy1019( http://kcy1019.icpc.me ).
 
 ## CLARIFICATION
-	The generator generates UNIQUE-SOLUTION MAZE.
+	The generator generates maze with UNIQUE SOLUTION.
 
 ## USAGE
 
@@ -20,11 +20,11 @@
 
 	Input 'make generator' to build generator.
 	Input 'make solver' to build solver.
-	Input 'make clear' to clear the application.
+	Input 'make clean' to clear the application.
 
 ## LICENSE
 
-	SIC/XE Simulator
+	Maze Generator & Solver
 
     Copyright (C) 2014  Chang-young Koh(kcy1019, gkcy1019@gmail.com).
 
